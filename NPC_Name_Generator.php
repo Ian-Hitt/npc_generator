@@ -3,6 +3,8 @@ echo 'Bye Friend!';
 $link_address1 = 'NPC_Name_Generator.php';
 echo "<a href='$link_address1'>NPC_Name_Generator</a>";
 
+echo "fun coding with you!";
+
 $link_address2 = 'Monster_Creator.php';
 echo "<a href='$link_address2'>' ' Monster_Creator</a>";
 
